@@ -1,5 +1,5 @@
 # EDA_Bank_wages
-This is a training repository where I conducted a EDA on my own.
+This is a training repository where I conducted an EDA.
 
 ## Data Set
 
